@@ -9,3 +9,9 @@ The site was not built for production use or for a real client, but rather as a 
 ![Team in Home Page](screenshots/home_team.png)
 ![Achievements in Home Page](screenshots/home_achievements.png)
 ![Footer in Home Page](screenshots/home_footer.png)
+
+## Tech Stack
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
