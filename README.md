@@ -6,3 +6,6 @@ The site was not built for production use or for a real client, but rather as a 
 ## Preview
 ![Hero in Home Page](screenshots/home_hero.png)
 ![Servies in Home Page](screenshots/home_services.png)
+![Team in Home Page](screenshots/home_team.png)
+![Achievements in Home Page](screenshots/home_achievements.png)
+![Footer in Home Page](screenshots/home_footer.png)
