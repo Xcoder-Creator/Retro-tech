@@ -1,5 +1,4 @@
 # Retro Tech <img width="40" height="40" alt="Retro-icon" src="https://github.com/user-attachments/assets/a4175a9a-b207-4b0f-bcc9-1108e7fd0e8e" />
-
 This is a frontend website I built in 2020 as a personal hobby project for a web development company concept, using plain HTML and CSS, along with jQuery and Bootstrap. The goal was to practice and showcase frontend skills by designing a clean, professional-looking company site, with a focus on layout, responsiveness, and overall user experience.
 
 The site was not built for production use or for a real client, but rather as a learning exercise and creative exploration during that period. It reflects the tools, design trends, and development approach I was using at the time.
@@ -18,3 +17,15 @@ The site was not built for production use or for a real client, but rather as a 
 - jQuery
 - No build tools
 - No frameworks
+
+## Features
+- Responsive layout
+- Single home page structure
+- Clean and simple UI design
+- Bootstrap-based grid system
+
+## How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
+
+No build step required.
