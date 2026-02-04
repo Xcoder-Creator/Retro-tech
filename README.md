@@ -16,3 +16,5 @@ The site was not built for production use or for a real client, but rather as a 
 - CSS3
 - Bootstrap
 - jQuery
+- No build tools
+- No frameworks
